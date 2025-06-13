@@ -1,4 +1,4 @@
-**Sistema de Gerenciamento de Biblioteca em Java**
+**Sistema de Gerenciamento de Biblioteca em Java**  
 Este projeto simples implementa um sistema básico de *gerenciamento de biblioteca* usando os princípios da Programação Orientada a Objetos (POO) em Java. Ele permite cadastrar livros, usuários (alunos e professores) e gerenciar o empréstimo e devolução de livros.  
   
 **Estrutura do Projeto**
